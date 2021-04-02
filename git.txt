@@ -1,0 +1,35 @@
+1- Atualizar seu projeto com o servidor:
+- git checkout master
+- git fetch
+- git pull
+
+2- Criar uma branch:
+- git checkout -b <nomedabranch>
+
+3- Commit:
+- git branch
+- git add .
+- git status
+- git commit -m "comentário"
+- git push origin merge nome da sua branch
+- acessar link Git Lab
+
+4- Clonar projeto:
+- git clone "link do projeto"
+- git ls
+- git status
+
+5- Encontrar conflitos:
+- git checkout <nome da sua branch>
+- git pull origin master
+
+6- Atualizar pipeline Vegeta:
+- git branch
+- git add .
+- git status
+- git commit -m "comentario" 
+- git push origin master
+
+
+
+

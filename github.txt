@@ -1,0 +1,22 @@
+1 Publicar no GitHub:
+
+- Open Visual Studo code
+- Terminal / 2:powershell
+- git init
+- git status
+- git add .
+- git commit -m "XXXXXXX"
+- Criar repositório no GitHub
+- copiar comandos --- …or push an existing repository from the command line -- no GitHub
+- Atualizar o Git Hub
+
+GIT Bush
+
+alexi@Alexandre MINGW64 ~
+$ git config --global user.name "Alexandre Silva"
+
+alexi@Alexandre MINGW64 ~
+$ git config --global user.email "alexix.dasilva@gmail.com"
+
+alexi@Alexandre MINGW64 ~
+$
