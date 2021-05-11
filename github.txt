@@ -21,3 +21,18 @@ $ git config --global user.email "alexix.dasilva@gmail.com"
 
 alexi@Alexandre MINGW64 ~
 $
+
+
+_________________________________________________________________________________________
+
+############## Outra maneira de incluir projeto no GitHub (Qdo um remote origin already exists)###################
+
+- git config --global user.name "Seu nome"
+- git config --global user.email "teste@email.com"
+- git init
+- git remote -v
+- git remote remove origin 
+- git remote -v 
+- git add .
+- git commit -m "comentário"
+- git push origin main 

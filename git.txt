@@ -31,6 +31,11 @@
 - git commit -m "comentario" 
 - git push origin master
 
+7- Verificar commits
+- git log
+- git log -2
+
+
 
 
 
